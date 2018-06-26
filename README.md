@@ -9,12 +9,12 @@ Requires [NodeJS](https://nodejs.org) to be installed on your system.
 
 #4. Install dependencies `npm init`
 
-#5. 'npm install'
+#5.  `npm install`
 
-#6. 'npm install twit'
+#6. `npm install twit`
 
-#7. 'npm install redditor'
+#7. `npm install redditor`
 
-#8. 'npm start'
+#8. `npm start`
 
-#9. Your bot will start Tweeting th e
+#9. Your bot will start Tweeting the the latest posting from your subreddit.
